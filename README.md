@@ -18,11 +18,13 @@ applications
 ## Contact :
 
  You can find me on:
-    [LinkedIn](https://www.linkedin.com/in/raed-al-masri/)
-    [Chanel](https://t.me/raed_almasri)
-    [Instagram](https://www.instagram.com/raed.almasri.tech/)
-    [Github](https://github.com/raedAlmasriIt)
+  - [LinkedIn](https://www.linkedin.com/in/raed-al-masri/) <br>
+  - [Chanel](https://t.me/raed_almasri)<br>
+  - [Instagram](https://www.instagram.com/raed.almasri.tech/)<br>
+  - [Github](https://github.com/raedAlmasriIt)<br>
 
+
+## Portfolios :
 
 <!-- === ⭐ PORTFOLIO LINE START ⭐ === -->
 
